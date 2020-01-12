@@ -1,4 +1,4 @@
-# twitter-march2016-analysis
+# Twitter-march2016-analysis
 
 Exploratory data analysis of Twitter Stream from March 2016 using the Big data tool Apache-Spark with python and application of various machine learning, data mining concepts such as LDA, Network Analysis &amp; Clustering.
 
