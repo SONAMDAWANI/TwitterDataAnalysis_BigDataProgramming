@@ -101,4 +101,4 @@ Exploratory data analysis of Twitter Stream from March 2016 using the Big data t
 We had to run it in two separate notebooks because of few limitations we are facing with Microsoft Azure HDInsights.
 
 Please check the IEEE format report for project insights:
-[LINK](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/TwitterAnalysisReport.pdf)
+[LINK](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/TwitterProjectReport.pdf)
