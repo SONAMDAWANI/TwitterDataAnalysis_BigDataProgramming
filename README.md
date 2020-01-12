@@ -9,6 +9,88 @@ Exploratory data analysis of Twitter Stream from March 2016 using the Big data t
 - USER CLUSTERING
 - MISSPELLED WORDS ANALYSIS
 
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide1.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide2.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide3.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide4.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide5.jpeg?raw=true
+      )
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide6.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide7.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide8.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide9.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide10.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide11.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide12.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide13.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide14.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide15.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide16.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide17.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide18.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide19.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide20.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide21.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide22.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide23.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide24.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide25.jpeg?raw=true
+      )
+      
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide26.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide27.jpeg?raw=true
+      )
+
+![alt text](https://github.com/SONAMDAWANI/TwitterDataAnalysis_BigDataProgramming/blob/master/Twitter_Presentation/Slide28.jpeg?raw=true
+      )
 
 
 ## Instructions to reproduce project
@@ -19,4 +101,4 @@ Exploratory data analysis of Twitter Stream from March 2016 using the Big data t
 We had to run it in two separate notebooks because of few limitations we are facing with Microsoft Azure HDInsights.
 
 Please check the IEEE format report for project insights:
-https://github.com/SONAMDAWANI/BDP_Project/blob/master/final_report.pdf
+[LINK]()
